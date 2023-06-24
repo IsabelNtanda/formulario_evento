@@ -6,7 +6,7 @@
 
 > Projeto desenvolvido durante o curso Explorer da Rocketseat!
 
-[🔗Clique para acessar](https://treine-me-chi.vercel.app/)
+[🔗Clique para acessar](https://formulario-evento.vercel.app/)
 
 ##### 🛠 Tecnologias utilizadas
 
